@@ -7,6 +7,6 @@ This is my personal ofter work project where I am experimenting with technologie
 
 
 # Todo
-[ ] Run the app using spring boot 
-[ ] Add Arquillian and bootstrap e2e testing
-[ ] Add some frontend in javascript needed to test use case of local continuous integration and redeployment 
+-  [ ] Run the app using spring boot 
+-  [ ] Add Arquillian and bootstrap e2e testing
+-  [ ] Add some frontend in javascript needed to test use case of local continuous integration and redeployment 
