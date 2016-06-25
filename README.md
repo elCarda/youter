@@ -9,7 +9,7 @@ application written in EcmaScript with tons of transpilations and so on and use 
 
 
 
-# Objectives
+## Objectives
 -  [ ] Run the app using spring boot 
 -  [ ] Add Arquillian and bootstrap e2e testing
 -  [ ] Add some frontend in javascript needed to test use case of local continuous integration and redeployment 
